@@ -1,0 +1,16 @@
+{
+  "name": "modulos-en-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "country-data": "^0.0.31",
+    "country-to-currency": "^2.0.2"
+  }
+}
